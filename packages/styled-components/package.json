@@ -5,7 +5,6 @@
   "main": "dist/styled-components.cjs.js",
   "jsnext:main": "dist/styled-components.esm.js",
   "module": "dist/styled-components.esm.js",
-  "react-native": "native/dist/styled-components.native.cjs.js",
   "browser": {
     "./dist/styled-components.esm.js": "./dist/styled-components.browser.esm.js",
     "./dist/styled-components.cjs.js": "./dist/styled-components.browser.cjs.js"
